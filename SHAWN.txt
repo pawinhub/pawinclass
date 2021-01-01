@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<h1>My Life, My Scolarship</h1>
+<p>Hi, my name is Shawn Pruttinun, and I love to create and procrastinate.I was born in Chiangmai on the 14th of April, well in my case it was actuallythe 13th night but it was past midnight so that was probably why I am such a light sleeper! Moving on, I grew up in a wonderful family consisting of a brother, a father, and my mom. As a child, we moved to a lot of schools, and consistently homed schooled us to get the Thai certificate too. I was always taught to study hard, and that’s the only thing living rent-free in my mind that helped me through this pandemic. We moved settlements a few times from living rent to, making our current home. As of right now, we are in Nong Cua, hang dong province, Chiang Mai city.</p> 
+
+
+<h5>To learn more about our surroundings you could visit this<a href="https://en.wikipedia.org/wiki/Hang_Dong_District"> Wikipedia</a></p>
+</h5>
+
+
+<h5>To take a close look at our school (SBS) and its surroundings<a href="https://www.google.com/maps/place/Satit+International+Bilingual+School+of+Rangsit+University+Chiang+Mai+(SBS)/@18.6972829,98.9432888,17z/data=!3m1!4!4m5!3m4!1s0x30da315cffee1c63:0x29905273f6ba8f75!8m2!3d18.6972778!4d98.9454775"> Click Here</a></p>
+</h5>
+
+
+<h2> MY QUALITIES </h2>
+
+<p> <ul>
+  <li>passionate</li>
+  <li>creative</li>
+  <li>invative</li>
+  <li>pays attention to detais</li>
+  <li>hardworking</li>
+  <li>intuitive</li>
+</ul> </p> 
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: Arial Rounded MTT,Arial;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 2px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color:#96adb6;
+}
+</style>
+</head>
+<body>
+
+<h2>My Atributes</h2>
+
+<table> <p>
+  <tr>
+    <th>Pictures</th>
+    <th>Atribute</th>
+  </tr>
+  <tr>
+    <td><img src="https://friendlystock.com/wp-content/uploads/2018/05/6-black-guy-playing-the-guitar-cartoon-clipart.jpg" alt="'guy playing guitar'" width="88" height="115"></td>
+    <td>I can play the guitar</td>
+  </tr>
+  <tr>
+    <td><img src="https://imageresizer.static9.net.au/3nP4paLaU5ByiO4f295sVFMRDPs=/600x338/smart/https%3A%2F%2Fprod.static9.net.au%2F_%2Fmedia%2FNetwork%2FImages%2F2017%2F06%2F19%2F11%2F01%2F170619coach_doodling.jpg" alt="'person drawing'" width="300" height="169"></td>
+    <td>I can draw and paint</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.etsystatic.com/15055613/r/il/4e1a76/1198864754/il_570xN.1198864754_5v14.jpg" alt="'guy playing guitar'" width="267" height="178"></td></td>
+    <td>I can craft and creat minitures</td>
+  </tr>
+</table> </p>
+
+<h1>In Colclusion</h1>
+<p>I worked hard an with confidence i think  thak t am the best choice for the scolership not only will i bring positive attention to your schoolk i will also give it my all to improve me and the students there!</p> >
+
+<video width="400" controls>
+  <source src="https://srv66.clipconverter.cc/download/ybmWo4x6r3ywZnBtn5WTa3Bg5KWmqW9u4pSZaHJkmWdoZ3G0qc%2FMqHyf1qiZpa2d2A%3D%3D/The%20River%20%28Loop%20Animation%29.mp4 
+" type="video/mp4">
+  Your browser can't support HTML video.
+</video> 
